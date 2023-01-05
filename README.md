@@ -1,4 +1,4 @@
-### Oie, eu sou o Juan! ✨
+### Oie, eu sou o Juan! Estudante de ADS ✨
 
 ![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=juaduarte&show_icons=true&theme=dracula)
 
