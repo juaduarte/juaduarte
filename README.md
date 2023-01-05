@@ -2,6 +2,8 @@
 
 ![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=juaduarte&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaduarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologia que utilizo no meu dia!
 
 <div style="display: inline_block"><br/>
